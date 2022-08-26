@@ -23,7 +23,7 @@ body{
     width: 90%;
     max-width: 1200px;
     min-height: 100vh;
-    background: var(--violet) url(images/bg-desktop.svg);
+    background: var(--violet) url(bg-desktop.svg);
     background-size: contain;
     background-repeat: no-repeat;
     margin: 0 auto;
@@ -135,7 +135,7 @@ header img{
 @media only screen and (max-width: 1024px){
     .container{
         width: 100%;
-        background: var(--violet) url(images/bg-mobile.svg);
+        background: var(--violet) url(bg-mobile.svg);
         background-size: contain;
         background-repeat: no-repeat;
     }
