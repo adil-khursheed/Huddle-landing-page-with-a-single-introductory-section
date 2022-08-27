@@ -61,7 +61,7 @@ header img{
 
 .right-col .heading{
     font-family: var(--font-heading);
-    font-size: 2rem;
+    font-size: clamp(1.4rem, 5vw, 2rem);
     color: #fff;
     margin-bottom: 1.5rem;
 }
